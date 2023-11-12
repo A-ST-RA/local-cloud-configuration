@@ -1,0 +1,6 @@
+# Volumes
+db/
+data/
+
+# Environment
+.env
